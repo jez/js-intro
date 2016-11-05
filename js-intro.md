@@ -166,7 +166,7 @@ function mySecondFunction(arg1, arg2, anotherArg) {
 1. Read step's **description**
 1. Check the **"diff"** (i.e., what lines changed) for each step
 1. Implement the **code** using the diff
-  - If you copy/paste, don't include the `+` signs
+    - If you copy/paste, don't include the `+` signs
 1. Repeat!
 
 <!-- vim:tw=60 softtabstop=4 shiftwidth=4
